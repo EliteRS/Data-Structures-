@@ -9,4 +9,4 @@ void fullSeats(int seats[],int size);
 void Exit();
 void gotoxy(int x, int y);
 void boardPassBox();
-void boxDisplay()
+void boxDisplay();
